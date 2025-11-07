@@ -7,7 +7,7 @@ credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
-include feature/jumbotron.html objectid="hells_half_theta"
+{% include feature/jumbotron.html objectid="psychiana005" %}
 
 ## About the Collection
 
@@ -20,8 +20,8 @@ The collection found here contains materials from Psychiana, which was a mail-or
 
 Example materials that can be found in this collection are:
 
-{% include feature/image.html objectid="mg101_b6_photographs_04" %}
+{% include feature/image.html objectid="psychiana038" %}
 
-{% include feature/pdf.html objectid="mg101_b7_f26_044" %}
+{% include feature/pdf.html objectid="psychiana054" %}
 
-{% include feature/audio.html objectid="good_news_05" %}
+{% include feature/audio.html objectid="psychiana003" %}
